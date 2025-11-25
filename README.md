@@ -74,46 +74,50 @@ tg_vizit/
     ├── services/
     ├── keyboards/
     └── handlers/
-
+```
 ⚙️ Установка и запуск
 1️⃣ Клонировать репозиторий
-git clone https://github.com/<your-username>/tg_vizit.git
+```
+git clone https://github.com/Anllane/tg_vizit.git
 cd tg_vizit
+```
 
 2️⃣ Установить зависимости
+```
 pip install -r requirements.txt
+```
 
 3️⃣ Создать .env
+```
 BOT_TOKEN=ваш_токен
 ADMIN_ID=123456789
 DATABASE_PATH=bot.db
+```
 
 4️⃣ Запуск
 python bot.py
 
 🐳 Запуск через Docker
 Сборка:
+```
 docker build -t tg_vizit .
+```
 
 Запуск:
+```
 docker run -d --env-file .env tg_vizit
+```
 
 Docker Compose:
+```
 docker-compose up -d
+```
 
 📬 Обратная связь
 
 Пользователь может отправить сообщение →
 бот сохранит его в БД →
 отправит админу в Telegram.
-
-🔒 Безопасность
-
-.env не попадает в GitHub
-
-.gitignore скрывает секреты и БД
-
-админ-панель доступна только ADMIN_ID
 
 📄 Лицензия
 
@@ -122,8 +126,8 @@ docker-compose up -d
 
 👨‍💻 Автор проекта
 
-Hdudhd
-Телеграм: @yourusername
-GitHub: https://github.com/your-username
+Anllane
+Телеграм: @Mzerat1
+GitHub: https://github.com/Anllane
 
 <p align="center"> ⭐️ Если проект понравился — поставьте звезду в GitHub! </p> ```
