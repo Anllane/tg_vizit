@@ -129,5 +129,6 @@ docker-compose up -d
 Anllane
 Телеграм: @Mzerat1
 GitHub: https://github.com/Anllane
+Kwork: https://kwork.ru/user/reco0on
 
 <p align="center"> ⭐️ Если проект понравился — поставьте звезду в GitHub! </p>   
