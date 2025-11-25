@@ -130,4 +130,4 @@ Anllane
 Телеграм: @Mzerat1
 GitHub: https://github.com/Anllane
 
-<p align="center"> ⭐️ Если проект понравился — поставьте звезду в GitHub! </p> ```
+<p align="center"> ⭐️ Если проект понравился — поставьте звезду в GitHub! </p>   
